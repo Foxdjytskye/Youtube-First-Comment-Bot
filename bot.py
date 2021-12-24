@@ -17,7 +17,8 @@ lastvid="Z9WQy9uEY8M"
 # waiting time intervel in seconds
 intervel=5
 #comment you need to post
-comment="Put your text here"
+comment=subscribe to fox plays roblox dj
+
 
 CLIENT_SECRETS_FILE = "./client_secrets.json"
 YOUTUBE_READ_WRITE_SSL_SCOPE = "https://www.googleapis.com/auth/youtube.force-ssl"
